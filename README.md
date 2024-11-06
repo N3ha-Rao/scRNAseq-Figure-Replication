@@ -1,4 +1,4 @@
-# BF550: scRNAseq-Figure-Replication
+# scRNAseq-Figure-Replication
 
 **Introduction:**
 The chosen paper for figure replication focuses on determining gene signatures for the different types of mononuclear and
