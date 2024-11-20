@@ -1,11 +1,8 @@
 # scRNAseq-Figure-Replication
 
 **Introduction:**
-The chosen paper for figure replication focuses on determining gene signatures for the different types of mononuclear and
-multinucleated skeletal muscle cells.  Gene expression levels not only vary
-by tissue type, but also across mononuclear cell types. Previous research utilizing bulk tissue analysis does
-not account for changes in individual cell-type proportion or gene expression, which this study aims to
-investigate.  The purpose of this project was to replicate Supplementary Figure S9 and Figure 3a using hierarchical clustering and PCA analysis.
+The chosen paper for figure replication focuses on determining gene signatures for the different types of mononuclear and multinucleated skeletal muscle cells.  Gene expression levels not only vary by tissue type, but also across mononuclear cell types. Previous research utilizing bulk tissue analysis does not account for changes in individual cell-type proportion or gene expression, which this study aims to investigate. The purpose of this project was to replicate Supplementary Figure S9 and Figure 3a using hierarchical clustering and PCA analysis.
+
 Citation: Rubenstein AB, Smith GR, Raue U, Begue G et al. Single-cell transcriptional profiles in human skeletal muscle. Sci Rep 2020 Jan 14;10(1):229.
 
 **Methods:**
